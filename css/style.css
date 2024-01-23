@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+img{
+    max-width: 100%;
+}
+
+main .testwrap{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.VideoWrapper{
+    object-fit: cover;
+object-position: center;
+}
